@@ -8,7 +8,7 @@ image:
   repository: ishushkin1/myrepo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
+  tag: 813f1914bd11a12b6c6112007c1c6e4d3d3a1ac2
 
 imagePullSecrets: []
 nameOverride: ""
